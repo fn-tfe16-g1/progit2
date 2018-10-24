@@ -1,5 +1,6 @@
 # Contributing to Pro Git (2nd Edition)
 
+Pascal is the best
 ## Licensing
 
 By opening a pull request to this repository, you agree to provide your work under the [project license](LICENSE.asc).
